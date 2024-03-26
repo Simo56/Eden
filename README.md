@@ -14,7 +14,7 @@ Say goodbye to passwords and hello to a seamless frictionless messaging experien
 <br>
 Join the journey to redefine communication in the digital age. Together let's build a future where privacy is not just an option but a fundamental right.</p>
 
-<h2>🧐 Features</h2>
+<h2>🔒 Features</h2>
 
 Here're some of the project's best features:
 
@@ -35,7 +35,7 @@ running the container code
 odfgosdfg
 ```
 
-<h2>💻 Built with</h2>
+<h2>🔬 Built with</h2>
 
 Technologies used in the project:
 
