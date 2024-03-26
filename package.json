@@ -1,0 +1,10 @@
+{
+  "name": "Eden",
+  "version": "1.0.0",
+  "description": "The goal of Eden is to revolutionize the way we communicate by introducing a cutting-edge solution for private, secure, passwordless, and decentralized messaging.",
+  "main": "index.js",
+  "repository": "https://github.com/Simo56/Eden",
+  "author": "Simone Pio Tosatto",
+  "license": "MIT",
+  "private": false
+}
